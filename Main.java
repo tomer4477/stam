@@ -13,4 +13,8 @@ Class Main {
     public static void bar(){
         System.out.println("Github?");
     }
+
+    public static void doSomething(){
+        
+    }
 }
